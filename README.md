@@ -1,4 +1,4 @@
 
-3rd year Software Engineering student. 
+4th year Software Engineering student. 
 University of Belgrade, School of Electrical Engineering
 
